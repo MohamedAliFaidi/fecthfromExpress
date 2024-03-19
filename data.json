@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john@example.com",
+      "age": 30
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "age": 25
+    },
+    {
+      "id": 3,
+      "username": "bob_jones",
+      "email": "bob@example.com",
+      "age": 40
+    },
+    {
+      "id": 4,
+      "username": "horangi",
+      "email": "bob@example.com",
+      "age": 40
+    },
+    {
+      "id": 4,
+      "username": "horangi",
+      "email": "habbouraa.com",
+      "age": 40
+    }
+  ]
+}
